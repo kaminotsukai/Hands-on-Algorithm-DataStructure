@@ -21,6 +21,25 @@ function linear_search($Ai, $V)
     return $ans ? 'Yes' : 'No';
 }
 
+/**
+ * 線形探索法（条件を満たすものがある場所も知る）
+ *
+ * Point
+ * - indexを保持する
+ */
+function linear_search_found_index($Ai, $V)
+{
+    // ありえない値をいれる
+    $found_id = -1;
 
+    foreach ($Ai as $key => $a) {
+        if ($a === $V) {
+            $found_id = $key;
+            break;
+        }
+    }
+
+    return $found_id;
+}
 
 
