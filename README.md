@@ -25,13 +25,21 @@
 16. 難問対策
 
 
-### Software and Hardware List
+### 学習ログ
 
 | Chapter  | Content                     | Date                        |
 | -------- | -------------------------------------- | -----------------------------------|
 |  3   | 全探索       | 2021-05-22  |
+|  4   | 再帰と分割統治法       | 2021-05-24  |
 
 
 ### 章末問題の解説
 
 https://github.com/drken1215/book_algorithm_solution
+
+
+### 個人的にといた問題
+
+AtCoderID: kmmk
+
+https://github.com/kaminotsukai/atcoder-solutions
