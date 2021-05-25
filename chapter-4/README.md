@@ -4,6 +4,10 @@
     - ユークリッドの互除法
     - 部分和問題
 
+### 感じたこと
+- 再帰関数はかなり深い探索をする時 or 深さが一定ではない場合に使用するのがいいのかなと思った
+- 単純なループでかける場合はループで書く
+
 ### 練習になる問題一覧（AtCoder参照）
 - [x] [C - 755](https://atcoder.jp/contests/abc114/tasks/abc114_c)
 - [x] [C - Many Requirements](https://atcoder.jp/contests/abc165/tasks/abc165_c)
